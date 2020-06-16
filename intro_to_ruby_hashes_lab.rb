@@ -15,6 +15,11 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
+  transportation_networks = {
+    :railroads => {:pieces => 4,
+    :rent_in_dollars => {},
+    :names => {} }
+  }
   
 end
 
