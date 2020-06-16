@@ -8,7 +8,7 @@ end
 
 def monopoly_with_second_tier
   transportation_networks = {
-    :railroads => {}
+    :railroads => {:pieces => 4}
     
   }
 
