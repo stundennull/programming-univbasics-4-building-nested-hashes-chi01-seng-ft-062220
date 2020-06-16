@@ -1,6 +1,6 @@
 def base_hash
   transportation_networks = {
-    :railroad => {}
+    :railroads => {}
     
   }
 
